@@ -1,5 +1,7 @@
 /**
  * Created by yiklunchan on 2/17/16.
+ * 
+ * PuzzleSover can solve a boggle in n x m dimension. it finds words that appear in vertical and horizontal manners.
  */
 import java.util.*;
 
